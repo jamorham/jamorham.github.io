@@ -1,1 +1,72 @@
-Hello World
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+<meta name="robots" content="NOARCHIVE, NOIMAGEINDEX">
+<title>Jamorham - My Diabetes Smart Home</title>
+<link rel="stylesheet" href="css/github-markdown.css">
+<style>body{min-width:200px;max-width:790px;margin:0 auto;padding:30px;}</style>
+</head>
+<body>
+<article class="markdown-body">
+<h1>My Diabetes Smart Home</h1>
+<blockquote>
+<p>Index page for my research projects. &nbsp; &nbsp; <i>Last updated October 2015</i></p>
+</blockquote>
+<ul>
+<li>Attempting to ease the burden of diabetes management through automation technology.</li>
+<li>Providing proof of concept tools to further research goals and inspire the next generation of systems.</li>
+</ul>
+<h2>The Parakeet</h2>
+<p>
+<img align=right src="images/parakeetaaaexternal-boxed-200.jpg">
+The Parakeet is a portable home-built device which receives wireless signals from a commercial continuous glucose sensor worn on the body. It transmits these over the phone network to a private or cloud internet server.
+</p>
+<p>
+<ul>
+<li><a href="https://github.com/jamorham/wixel-xDrip/blob/parakeet-gsm-modem/README.md">Parakeet Project Page</a></li>
+<li><a href="https://drive.google.com/file/d/0B6mvYVNVC-fOQU5XQS14NERwYjA/view?usp=sharing">What is the Parakeet (PDF)</a></li>
+<li><a href="https://github.com/jamorham/wixel-xDrip/archive/parakeet-gsm-modem.zip">Download source code ZIP</a></li>
+</ul>
+</p>
+<h2>Whole house receiver coverage</h2>
+<p>
+<img align=right src="images/yellow-raspberry-pi-wixel-200.jpg">
+Using multiple Raspberry Pi silent mini-computers combined with Wixel receivers we can achieve blanket coverage of the whole house.
+
+It is no longer necessary to carry a CGM receiver or remain in range of one when at home. The signals can be collated and interpreted by these networked machines.
+</p>
+<p>
+<ul>
+<li><a href="https://github.com/jamorham/python-usb-wixel-xdrip">Raspberry Pi USB Wixel Project Page</a></li>
+<li><a href="https://github.com/jamorham/python-usb-wixel-xdrip/archive/master.zip">Download source code ZIP</a></li>
+</ul>
+</p>
+<p>
+USB Wixels can use the Parakeet codebase, simply set <code>use_gsm = 0</code> when compiling.
+</p>
+<h2>Automation Systems</h2>
+<p>
+<img align=right src="images/glucose-falling-pebble-small-221.jpg">
+Sophisticated forward prediction and anomaly detection systems, linked with internet connectivity, make it possible to provide alerts and computer based analysis intelligently. This can minimize “alarm fatigue” and reduce the mental burden of constantly tracking blood sugars.
+<br>
+<br>
+<b>Just about anything is possible once we have open interoperation of the glucose sensor data.</b><br><br>
+Currently there is active testing of systems which produce alerts based on sensor heuristics and probability tuned predictions of what is likely to be occurring at a given moment. Machine learning systems which can interpolate a lifetime of blood glucose data, detect anomalies and escalate alerts as needed.
+<br>
+<br>
+These may range from a simple ambient lighting change indicating a blood sugar prediction right up to an emergency call out to friends and family if the diabetic becomes unresponsive.
+</p>
+<p align=right>
+</p>
+<hr>
+<p align=middle><img src="images/my-diabetes-smart-home-1.jpg"></p>
+<hr>
+<h3>Contact Information</h3>
+<p>To avoid spam I didn't post my email address here. If you need to email me, my address is shown on the last page of the Parakeet PDF document linked further up the page. 
+</p>
+<hr>
+</article>
+</body>
+</html>
