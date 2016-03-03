@@ -1,0 +1,1190 @@
+{
+  "version": 1,
+  "width": 107,
+  "height": 15,
+  "duration": 81.633863,
+  "command": "/bin/bash",
+  "title": "Installing Parakeet Google App Engine",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.296473,
+      "Google Web Based Cloud Shell\r\n\r\n\u001b]0;parakeet-receiver\u0007jamorham@parakeet-receiver:~$ \u001b\u001b\\"
+    ],
+    [
+      2.842268,
+      "g"
+    ],
+    [
+      0.144657,
+      "i"
+    ],
+    [
+      0.103585,
+      "t"
+    ],
+    [
+      0.127208,
+      " "
+    ],
+    [
+      0.426035,
+      "c"
+    ],
+    [
+      0.115625,
+      "l"
+    ],
+    [
+      0.193882,
+      "o"
+    ],
+    [
+      0.055749,
+      "n"
+    ],
+    [
+      0.072653,
+      "e"
+    ],
+    [
+      0.296632,
+      " "
+    ],
+    [
+      0.144189,
+      "h"
+    ],
+    [
+      0.128774,
+      "t"
+    ],
+    [
+      0.136036,
+      "t"
+    ],
+    [
+      0.140469,
+      "p"
+    ],
+    [
+      0.152234,
+      "s"
+    ],
+    [
+      0.225112,
+      ":"
+    ],
+    [
+      0.271977,
+      "/"
+    ],
+    [
+      0.136417,
+      "/"
+    ],
+    [
+      0.536979,
+      "g"
+    ],
+    [
+      0.088464,
+      "i"
+    ],
+    [
+      0.104004,
+      "t"
+    ],
+    [
+      0.273339,
+      "h"
+    ],
+    [
+      0.174785,
+      "u"
+    ],
+    [
+      0.088745,
+      "b"
+    ],
+    [
+      0.285302,
+      "."
+    ],
+    [
+      0.249179,
+      "c"
+    ],
+    [
+      0.071960,
+      "o"
+    ],
+    [
+      0.063428,
+      "m"
+    ],
+    [
+      0.297493,
+      "/"
+    ],
+    [
+      0.358456,
+      "j"
+    ],
+    [
+      0.101774,
+      "a"
+    ],
+    [
+      0.116081,
+      "m"
+    ],
+    [
+      0.203992,
+      "o"
+    ],
+    [
+      0.084516,
+      "r"
+    ],
+    [
+      0.133280,
+      "h"
+    ],
+    [
+      0.091921,
+      "a"
+    ],
+    [
+      0.083899,
+      "m"
+    ],
+    [
+      0.271984,
+      "/"
+    ],
+    [
+      0.359523,
+      "P"
+    ],
+    [
+      0.224903,
+      "a"
+    ],
+    [
+      0.172646,
+      "r"
+    ],
+    [
+      0.143555,
+      "a"
+    ],
+    [
+      0.261271,
+      "k"
+    ],
+    [
+      0.077010,
+      "e"
+    ],
+    [
+      0.119243,
+      "e"
+    ],
+    [
+      0.160643,
+      "t"
+    ],
+    [
+      0.370563,
+      "-"
+    ],
+    [
+      0.311193,
+      "A"
+    ],
+    [
+      0.208890,
+      "p"
+    ],
+    [
+      0.152332,
+      "p"
+    ],
+    [
+      0.646494,
+      "-"
+    ],
+    [
+      0.359946,
+      "E"
+    ],
+    [
+      0.361360,
+      "n"
+    ],
+    [
+      0.107518,
+      "g"
+    ],
+    [
+      0.071878,
+      "i"
+    ],
+    [
+      0.060843,
+      "n"
+    ],
+    [
+      0.055012,
+      "e"
+    ],
+    [
+      0.293818,
+      "."
+    ],
+    [
+      0.204441,
+      "g"
+    ],
+    [
+      0.161140,
+      "i"
+    ],
+    [
+      0.179817,
+      "t"
+    ],
+    [
+      0.826208,
+      "\r\n"
+    ],
+    [
+      0.059124,
+      "Cloning into 'Parakeet-App-Engine'..."
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      1.073656,
+      "remote: Counting objects: 127, done.\u001b[K"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.007164,
+      "Receiving objects:   0% (1/127)   \r"
+    ],
+    [
+      0.000117,
+      "Receiving objects:   1% (2/127)   \r"
+    ],
+    [
+      0.000170,
+      "Receiving objects:   2% (3/127)   \r"
+    ],
+    [
+      0.000221,
+      "Receiving objects:   3% (4/127)   \r"
+    ],
+    [
+      0.000226,
+      "Receiving objects:   4% (6/127)   \r"
+    ],
+    [
+      0.000210,
+      "Receiving objects:   5% (7/127)   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:   6% (8/127)   \r"
+    ],
+    [
+      0.000143,
+      "Receiving objects:   7% (9/127)   \r"
+    ],
+    [
+      0.000334,
+      "Receiving objects:   8% (11/127)   \r"
+    ],
+    [
+      0.000124,
+      "Receiving objects:   9% (12/127)   \r"
+    ],
+    [
+      0.000211,
+      "Receiving objects:  10% (13/127)   \r"
+    ],
+    [
+      0.000145,
+      "Receiving objects:  11% (14/127)   \r"
+    ],
+    [
+      0.000389,
+      "Receiving objects:  12% (16/127)   \r"
+    ],
+    [
+      0.000189,
+      "Receiving objects:  13% (17/127)   \r"
+    ],
+    [
+      0.072376,
+      "Receiving objects:  14% (18/127)   \r"
+    ],
+    [
+      0.000398,
+      "Receiving objects:  15% (20/127)   \r"
+    ],
+    [
+      0.077512,
+      "Receiving objects:  16% (21/127)   \r"
+    ],
+    [
+      0.000176,
+      "Receiving objects:  17% (22/127)   \r"
+    ],
+    [
+      0.000206,
+      "Receiving objects:  18% (23/127)   \r"
+    ],
+    [
+      0.000475,
+      "Receiving objects:  19% (25/127)   \r"
+    ],
+    [
+      0.000262,
+      "Receiving objects:  20% (26/127)   \r"
+    ],
+    [
+      0.005892,
+      "Receiving objects:  21% (27/127)   \r"
+    ],
+    [
+      0.000245,
+      "Receiving objects:  22% (28/127)   \r"
+    ],
+    [
+      0.000274,
+      "Receiving objects:  23% (30/127)   \r"
+    ],
+    [
+      0.000359,
+      "Receiving objects:  24% (31/127)   \r"
+    ],
+    [
+      0.000224,
+      "Receiving objects:  25% (32/127)   \r"
+    ],
+    [
+      0.000317,
+      "Receiving objects:  26% (34/127)   \r"
+    ],
+    [
+      0.000267,
+      "Receiving objects:  27% (35/127)   \r"
+    ],
+    [
+      0.000249,
+      "Receiving objects:  28% (36/127)   \r"
+    ],
+    [
+      0.000546,
+      "Receiving objects:  29% (37/127)   \r"
+    ],
+    [
+      0.000534,
+      "Receiving objects:  30% (39/127)   \r"
+    ],
+    [
+      0.000071,
+      "Receiving objects:  31% (40/127)   \r"
+    ],
+    [
+      0.160992,
+      "Receiving objects:  32% (41/127)   \r"
+    ],
+    [
+      0.000306,
+      "Receiving objects:  33% (42/127)   \r"
+    ],
+    [
+      0.006353,
+      "Receiving objects:  34% (44/127)   \r"
+    ],
+    [
+      0.000839,
+      "Receiving objects:  35% (45/127)   \r"
+    ],
+    [
+      0.000166,
+      "Receiving objects:  36% (46/127)   \r"
+    ],
+    [
+      0.000721,
+      "Receiving objects:  37% (47/127)   \r"
+    ],
+    [
+      0.000549,
+      "Receiving objects:  38% (49/127)   \r"
+    ],
+    [
+      0.000463,
+      "Receiving objects:  39% (50/127)   \r"
+    ],
+    [
+      0.000432,
+      "Receiving objects:  40% (51/127)   \r"
+    ],
+    [
+      0.000425,
+      "Receiving objects:  41% (53/127)   \r"
+    ],
+    [
+      0.000420,
+      "Receiving objects:  42% (54/127)   \r"
+    ],
+    [
+      0.000294,
+      "Receiving objects:  43% (55/127)   \r"
+    ],
+    [
+      0.000982,
+      "Receiving objects:  44% (56/127)   \r"
+    ],
+    [
+      0.000508,
+      "Receiving objects:  45% (58/127)   \r"
+    ],
+    [
+      0.000257,
+      "Receiving objects:  46% (59/127)   \r"
+    ],
+    [
+      0.000393,
+      "Receiving objects:  47% (60/127)   \r"
+    ],
+    [
+      0.000229,
+      "Receiving objects:  48% (61/127)   \r"
+    ],
+    [
+      0.000293,
+      "Receiving objects:  49% (63/127)   \r"
+    ],
+    [
+      0.000044,
+      "Receiving objects:  50% (64/127)   \r"
+    ],
+    [
+      0.000319,
+      "Receiving objects:  51% (65/127)   \r"
+    ],
+    [
+      0.000312,
+      "Receiving objects:  52% (67/127)   \r"
+    ],
+    [
+      0.000189,
+      "Receiving objects:  53% (68/127)   \r"
+    ],
+    [
+      0.000102,
+      "Receiving objects:  54% (69/127)   \r"
+    ],
+    [
+      0.000460,
+      "Receiving objects:  55% (70/127)   \r"
+    ],
+    [
+      0.000569,
+      "Receiving objects:  56% (72/127)   \r"
+    ],
+    [
+      0.000260,
+      "Receiving objects:  57% (73/127)   \r"
+    ],
+    [
+      0.000092,
+      "Receiving objects:  58% (74/127)   \r"
+    ],
+    [
+      0.000190,
+      "Receiving objects:  59% (75/127)   \r"
+    ],
+    [
+      0.000664,
+      "Receiving objects:  60% (77/127)   \r"
+    ],
+    [
+      0.000300,
+      "Receiving objects:  61% (78/127)   \r"
+    ],
+    [
+      0.000413,
+      "Receiving objects:  62% (79/127)   \r"
+    ],
+    [
+      0.000266,
+      "Receiving objects:  63% (81/127)   \r"
+    ],
+    [
+      0.066818,
+      "Receiving objects:  64% (82/127)   \r"
+    ],
+    [
+      0.000277,
+      "Receiving objects:  65% (83/127)   \r"
+    ],
+    [
+      0.000287,
+      "Receiving objects:  66% (84/127)   \r"
+    ],
+    [
+      0.000421,
+      "Receiving objects:  67% (86/127)   \r"
+    ],
+    [
+      0.000234,
+      "Receiving objects:  68% (87/127)   \r"
+    ],
+    [
+      0.000912,
+      "Receiving objects:  69% (88/127)   \r"
+    ],
+    [
+      0.000098,
+      "Receiving objects:  70% (89/127)   \r"
+    ],
+    [
+      0.000541,
+      "Receiving objects:  71% (91/127)   \r"
+    ],
+    [
+      0.000258,
+      "Receiving objects:  72% (92/127)   \r"
+    ],
+    [
+      0.000098,
+      "Receiving objects:  73% (93/127)   \r"
+    ],
+    [
+      0.000292,
+      "Receiving objects:  74% (94/127)   \r"
+    ],
+    [
+      0.000505,
+      "Receiving objects:  75% (96/127)   \r"
+    ],
+    [
+      0.001563,
+      "Receiving objects:  76% (97/127)   \r"
+    ],
+    [
+      0.000053,
+      "Receiving objects:  77% (98/127)   \r"
+    ],
+    [
+      0.000221,
+      "Receiving objects:  78% (100/127)   \r"
+    ],
+    [
+      0.000384,
+      "Receiving objects:  79% (101/127)   \r"
+    ],
+    [
+      0.001446,
+      "Receiving objects:  80% (102/127)   \r"
+    ],
+    [
+      0.000337,
+      "Receiving objects:  81% (103/127)   \r"
+    ],
+    [
+      0.000461,
+      "Receiving objects:  82% (105/127)   \r"
+    ],
+    [
+      0.000434,
+      "Receiving objects:  83% (106/127)   \r"
+    ],
+    [
+      0.000513,
+      "Receiving objects:  84% (107/127)   \r"
+    ],
+    [
+      0.000311,
+      "Receiving objects:  85% (108/127)   \r"
+    ],
+    [
+      0.000850,
+      "Receiving objects:  86% (110/127)   \r"
+    ],
+    [
+      0.000240,
+      "Receiving objects:  87% (111/127)   \r"
+    ],
+    [
+      0.000257,
+      "Receiving objects:  88% (112/127)   \r"
+    ],
+    [
+      0.000578,
+      "remote: Total 127 (delta 0), reused 0 (delta 0), pack-reused 127\u001b[K"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000525,
+      "Receiving objects:  89% (114/127)   \r"
+    ],
+    [
+      0.000329,
+      "Receiving objects:  90% (115/127)   \r"
+    ],
+    [
+      0.000488,
+      "Receiving objects:  91% (116/127)   \r"
+    ],
+    [
+      0.000289,
+      "Receiving objects:  92% (117/127)   \r"
+    ],
+    [
+      0.001141,
+      "Receiving objects:  93% (119/127)   \r"
+    ],
+    [
+      0.000817,
+      "Receiving objects:  94% (120/127)   \r"
+    ],
+    [
+      0.000353,
+      "Receiving objects:  95% (121/127)   \r"
+    ],
+    [
+      0.000049,
+      "Receiving objects:  96% (122/127)   \r"
+    ],
+    [
+      0.000151,
+      "Receiving objects:  97% (124/127)   \r"
+    ],
+    [
+      0.000160,
+      "Receiving objects:  98% (125/127)   \r"
+    ],
+    [
+      0.000178,
+      "Receiving objects:  99% (126/127)   \r"
+    ],
+    [
+      0.000122,
+      "Receiving objects: 100% (127/127)   \r"
+    ],
+    [
+      0.000205,
+      "Receiving objects: 100% (127/127), 627.32 KiB | 0 bytes/s, done."
+    ],
+    [
+      0.000182,
+      "\r\n"
+    ],
+    [
+      0.000210,
+      "Resolving deltas:   0% (0/10)   \r"
+    ],
+    [
+      0.000412,
+      "Resolving deltas:  50% (5/10)   \r"
+    ],
+    [
+      0.000348,
+      "Resolving deltas:  70% (7/10)   \r"
+    ],
+    [
+      0.000510,
+      "Resolving deltas: 100% (10/10)   \r"
+    ],
+    [
+      0.000106,
+      "Resolving deltas: 100% (10/10), done."
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.027246,
+      "Checking connectivity... "
+    ],
+    [
+      0.004967,
+      "done."
+    ],
+    [
+      0.002263,
+      "\r\n"
+    ],
+    [
+      0.076676,
+      "\u001b]0;parakeet-receiver\u0007jamorham@parakeet-receiver:~$ \u001b\\"
+    ],
+    [
+      2.067245,
+      "c"
+    ],
+    [
+      0.262712,
+      "d"
+    ],
+    [
+      0.138961,
+      " "
+    ],
+    [
+      0.210214,
+      "P"
+    ],
+    [
+      0.274659,
+      "a"
+    ],
+    [
+      0.232297,
+      "rakeet-App-Engine/"
+    ],
+    [
+      3.391662,
+      "\r\n"
+    ],
+    [
+      0.036648,
+      "\u001b]0;parakeet-receiver\u0007jamorham@parakeet-receiver:~/Parakeet-App-Engine$ \u001b\\"
+    ],
+    [
+      2.257712,
+      "s"
+    ],
+    [
+      0.143748,
+      "h"
+    ],
+    [
+      0.160365,
+      " "
+    ],
+    [
+      0.177366,
+      "i"
+    ],
+    [
+      0.062521,
+      "n"
+    ],
+    [
+      0.120573,
+      "s"
+    ],
+    [
+      0.144292,
+      "t"
+    ],
+    [
+      0.159920,
+      "a"
+    ],
+    [
+      0.057705,
+      "l"
+    ],
+    [
+      0.159292,
+      "l"
+    ],
+    [
+      0.184344,
+      "."
+    ],
+    [
+      0.107570,
+      "s"
+    ],
+    [
+      0.112030,
+      "h"
+    ],
+    [
+      1.667684,
+      "\r\n"
+    ],
+    [
+      0.001437,
+      "\r\n"
+    ],
+    [
+      0.000154,
+      "This will install the Parakeet Receiver to: parakeet-receiver"
+    ],
+    [
+      0.000094,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "Type: y or Y to continue, any other key to exit: "
+    ],
+    [
+      5.861947,
+      "Y"
+    ],
+    [
+      0.884834,
+      "\r\n\r\n"
+    ],
+    [
+      1.857772,
+      "You are about to deploy the following modules:"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000294,
+      " - parakeet-receiver/default (from [/home/jamorham/Parakeet-App-Engine/app.yaml])"
+    ],
+    [
+      0.000120,
+      "\r\n"
+    ],
+    [
+      0.000421,
+      "     Deployed URL: [https://parakeet-receiver.appspot.com]"
+    ],
+    [
+      0.000107,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ],
+    [
+      0.000611,
+      "Do you want to continue (Y/n)?  "
+    ],
+    [
+      6.567743,
+      "Y"
+    ],
+    [
+      2.192521,
+      "\r\n\r\n"
+    ],
+    [
+      0.000305,
+      "Beginning deployment..."
+    ],
+    [
+      0.000208,
+      "\r\n"
+    ],
+    [
+      0.884812,
+      "Copying files to Google Cloud Storage..."
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.000289,
+      "Synchronizing files to [gs://staging.parakeet-receiver.appspot.com/]."
+    ],
+    [
+      0.000121,
+      "\r\n"
+    ],
+    [
+      4.007122,
+      "\rUpdating module [default]..."
+    ],
+    [
+      1.007315,
+      "\r                            "
+    ],
+    [
+      0.000308,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.001253,
+      "\r                             "
+    ],
+    [
+      0.000284,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.001208,
+      "\r                             "
+    ],
+    [
+      0.000024,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.001477,
+      "\r                             "
+    ],
+    [
+      0.000029,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.001518,
+      "\r                             "
+    ],
+    [
+      0.000037,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.001514,
+      "\r                             "
+    ],
+    [
+      0.000038,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.001527,
+      "\r                             "
+    ],
+    [
+      0.000059,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.001534,
+      "\r                             "
+    ],
+    [
+      0.000026,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.001519,
+      "\r                             "
+    ],
+    [
+      0.000025,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.001538,
+      "\r                             "
+    ],
+    [
+      0.000040,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.001592,
+      "\r                             "
+    ],
+    [
+      0.000041,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.001537,
+      "\r                             "
+    ],
+    [
+      0.000039,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      0.494687,
+      "\u001b[1;33mWARNING:\u001b[0m In a future Cloud SDK release, deployments that promote the new version to receive all traffic will stop the previous version by default."
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "To adopt the new behavior early, pass the `--stop-previous-version` flag or run the following command:"
+    ],
+    [
+      0.000116,
+      "\r\n"
+    ],
+    [
+      0.000125,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "  $ gcloud config set app/stop_previous_version true"
+    ],
+    [
+      0.000459,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "To keep the current behavior (where deployments do not stop the previous version), pass the `--no-stop-previous-version` flag, or run the following command:"
+    ],
+    [
+      0.000154,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "  $ gcloud config set app/stop_previous_version false"
+    ],
+    [
+      0.000195,
+      "\r\n"
+    ],
+    [
+      0.504475,
+      "\r                             "
+    ],
+    [
+      0.000351,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.001245,
+      "\r                             "
+    ],
+    [
+      0.000295,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.001244,
+      "\r                             "
+    ],
+    [
+      0.000322,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.001559,
+      "\r                             "
+    ],
+    [
+      0.000073,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.001306,
+      "\r                             "
+    ],
+    [
+      0.000313,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.001655,
+      "\r                             "
+    ],
+    [
+      0.000075,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      0.627576,
+      "\r                             "
+    ],
+    [
+      0.000039,
+      "\rUpdating module [default]...done."
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.000666,
+      "Deployed module [default] to [https://parakeet-receiver.appspot.com]"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.483461,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "INSTALL SUCCESS!"
+    ],
+    [
+      0.000025,
+      "\r\n\r\n"
+    ],
+    [
+      0.000008,
+      "Please visit the site ASAP and login to ensure you register yourself as the admin user"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.058505,
+      "\u001b]0;parakeet-receiver\u0007jamorham@parakeet-receiver:~/Parakeet-App-Engine$ \u001b\\"
+    ],
+    [
+      3.885946,
+      ":"
+    ],
+    [
+      0.585423,
+      ")"
+    ],
+    [
+      4.871692,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.164086,
+      "\u0008\u001b[K"
+    ]
+  ]
+}
